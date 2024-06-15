@@ -38,4 +38,10 @@ Here’s a glimpse of the key features that guide our prediction model:
   - 0 = Did not survive 💔
   - 1 = Survived 💖
 
+
+# Web Page 
+![image](https://github.com/MirAb-77/Titanic-Survival-Prediction/assets/169236743/6596e1c8-5243-4c14-8bc9-f363dc78ef46)
+![image](https://github.com/MirAb-77/Titanic-Survival-Prediction/assets/169236743/951d99bd-e8eb-4fa0-ac33-43db3cbf1f0f)
+
+
 Embark on this analytical voyage with our Titanic Survival Prediction Model, where we navigate through data to predict and learn from one of history's most iconic maritime disasters. Through this exploration, we not only pay homage to the passengers of the Titanic but also harness the power of machine learning to understand survival patterns amid chaos.
