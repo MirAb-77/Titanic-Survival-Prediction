@@ -2,7 +2,7 @@
 
 The Titanic prediction model is a fascinating journey into the past, aiming to predict whether a passenger survived or perished during the tragic sinking of the Titanic. This endeavor utilizes a rich dataset to uncover patterns and insights, transforming historical data into a modern machine-learning marvel.
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/6/6e/St%C3%B6wer_Titanic.jpg)
 
 ## 🚢 Dataset Description
 
