@@ -1,4 +1,9 @@
-# Titanic Survival Prediction Model: Unveiling the Fateful Voyage
+<h3 
+    align="center" 
+    style="font-size: 50px; padding:20px; font-family:Microsoft; text-align:center; display:block; border-radius:30px;background-color:#000000">
+    <span style="color: white;"># Will You Survive on Titanic? 🚢</span>
+</h3>
+
 The Titanic prediction model is a fascinating journey into the past, aiming to predict whether a passenger survived or perished during the tragic sinking of the Titanic. This endeavor utilizes a rich dataset to uncover patterns and insights, transforming historical data into a modern machine-learning marvel.
 
 # ![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
